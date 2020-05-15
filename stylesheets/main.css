@@ -29,3 +29,7 @@ a{
 .header_content {
     display: inline-block;
 }
+
+header {
+  background-color: #272363;
+}
